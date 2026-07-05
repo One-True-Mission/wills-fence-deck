@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://one-true-mission.github.io/wills-fence-deck/sitemap.xml
